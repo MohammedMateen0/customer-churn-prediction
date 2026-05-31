@@ -23,6 +23,7 @@ catboost_info/
 
 # Data
 data/processed/
+data/raw/
 
 # IDE
 .vscode/
