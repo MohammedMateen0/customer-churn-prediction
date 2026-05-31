@@ -29,6 +29,8 @@ data/raw/
 .vscode/
 .idea/
 
+models/*.pkl
+
 # OS Files
 .DS_Store
 Thumbs.db
